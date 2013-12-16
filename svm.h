@@ -4,5 +4,5 @@ struct parts {
 };
 
 struct checking_pointers {
-    struct parts **x
+    struct parts **x;
 };
